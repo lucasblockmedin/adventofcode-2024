@@ -1,6 +1,6 @@
 # Advent of Code 2024 Solutions
 
-![Current Stars](https://img.shields.io/badge/aoc-stars%20⭐-47-yellow)
+![AOC Stars](https://img.shields.io/badge/AOC_Stars-47_⭐-gold?style=plastic&logo=python&logoColor=white)
 
 My solutions for [Advent of Code 2024](https://adventofcode.com/2024), a series of programming puzzles released daily during December.
 
