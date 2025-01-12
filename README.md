@@ -21,6 +21,7 @@ All solutions are implemented in Python. Most solutions use only the standard li
   - Some users analyzed compression rates of the image
   - Others plotted point distribution averages
   - I found the outlier in the custom metric of the problem
+- Day 23 required to look up max clique algos, in particular [Bron-Kerbosch](https://en.wikipedia.org/wiki/Bron%E2%80%93Kerbosch_algorithm)
 
 ### Challenges Faced
 - Day 21 remains unsolved, still working through the complexities
