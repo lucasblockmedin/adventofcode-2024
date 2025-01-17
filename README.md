@@ -1,6 +1,6 @@
 # Advent of Code 2024 Solutions
 
-![AOC Stars](https://img.shields.io/badge/AOC_Stars-47_⭐-gold?style=plastic&logo=python&logoColor=white)
+![AOC Stars](https://img.shields.io/badge/AOC_Stars-50_⭐-gold?style=plastic&logo=python&logoColor=white)
 
 My solutions for [Advent of Code 2024](https://adventofcode.com/2024), a series of programming puzzles released daily during December.
 
@@ -23,8 +23,9 @@ All solutions are implemented in Python. Most solutions use only the standard li
   - I found the outlier in the custom metric of the problem
 - Day 23 required to look up max clique algos, in particular [Bron-Kerbosch](https://en.wikipedia.org/wiki/Bron%E2%80%93Kerbosch_algorithm)
 
+
 ### Challenges Faced
-- Day 21 remains unsolved, still working through the complexities
+- Day 21 was really hard, I started using Djikstra but I was not making it work for part 1, went back and did it the bruteforce way by trying all combinations. But then needed to optimise for part 2. I really struggled to wrap my head around the recursion so I had to look for hints.
 - Day 23 was challenging but rewarding - required revisiting computer architecture concepts like Ripple Carry Adders for part 2
 - Some of the harder problems required consulting the Reddit community for hints and approaches
 
