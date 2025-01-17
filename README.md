@@ -15,7 +15,7 @@ All solutions are implemented in Python. Most solutions use only the standard li
 ## Learning Journey
 
 ### Key Learnings
-- Implemented and understood memoization using Python decorators for optimizing recursive solutions
+- Implemented and understood memoization using Python decorators for optimizing recursive solutions or repetitive computations
 - Frequent practice with pathfinding algorithms (Dijkstra and A*) through various puzzle applications
 - Day 14 was particularly interesting, learning about different approaches to find outlier patterns:
   - Some users analyzed compression rates of the image
